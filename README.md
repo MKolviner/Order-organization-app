@@ -1,6 +1,8 @@
 # Order-organization-app
 Order organization app created on Python using Flask, database created on PostgreSQL, PyQT and few more libraries.
 
+![изображение](https://github.com/user-attachments/assets/406dfa2f-4d69-4ba4-b6fe-8048eaf04a95)
+
 # Описание кнопок в приложении
 
 # Отобразить все заказы
